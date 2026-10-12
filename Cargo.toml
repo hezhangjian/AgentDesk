@@ -1,0 +1,8 @@
+[package]
+name = "agentdesk"
+version = "0.0.1"
+edition = "2024"
+description = "AgentDesk is a desktop GUI for AI agents."
+license = "Apache-2.0"
+readme = "README.md"
+repository = "https://github.com/hezhangjian/AgentDesk"
