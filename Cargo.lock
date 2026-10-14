@@ -113,7 +113,13 @@ dependencies = [
 name = "agentdesk"
 version = "0.0.1"
 dependencies = [
+ "anyhow",
+ "dirs 6.0.0",
  "gpui-kit",
+ "libc",
+ "serde",
+ "serde_json",
+ "uuid",
 ]
 
 [[package]]
